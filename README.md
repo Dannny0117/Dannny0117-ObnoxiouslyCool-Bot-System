@@ -21,7 +21,7 @@ Pro chat moderation, automation, engagement tools & analytics to grow your strea
   </a>
 </p>
 
-[![Stars](https://img.shields.io/github/stars/dannny0117/ObnoxiouslyCool-Bot?style=social)](https://github.com/dannny0117/ObnoxiouslyCool-Bot)  
+[![Stars](https://img.shields.io/github/stars/Dannny0117/Dannny0117-ObnoxiouslyCool-Bot-System?style=social)](https://github.com/Dannny0117/Dannny0117-ObnoxiouslyCool-Bot-System)  
 [![Twitch](https://img.shields.io/badge/Twitch-Dannny0117-9146FF?logo=twitch)](https://twitch.tv/dannny0117)  
 [![Discord](https://img.shields.io/badge/Discord-Join-7289DA?logo=discord)](https://discord.dannny0117.com)
 

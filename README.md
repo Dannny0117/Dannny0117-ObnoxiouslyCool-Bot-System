@@ -3,6 +3,23 @@
 **Dannny0117 ObnoxiouslyCool Bot System: A multi-platform moderation and engagement bot for Twitch, YouTube Live & Kick**  
 Pro chat moderation, automation, engagement tools & analytics to grow your stream — completely free (and I’m doing everything I can to keep it that way forever)! 🚀
 
+<p align="center">
+  <a href="https://discord.dannny0117.com">
+    <img src="https://img.shields.io/badge/Join%20Our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord Server">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://snapchat.com/add/dannny0117">
+    <img src="https://img.shields.io/badge/Snapchat-@dannny0117-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat @dannny0117">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/dannny0117">
+    <img src="https://img.shields.io/badge/X-@dannny0117-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter @dannny0117">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://tiktok.com/@dannny0117">
+    <img src="https://img.shields.io/badge/TikTok-@dannny0117-FF0050?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok @dannny0117">
+  </a>
+</p>
 
 [![Stars](https://img.shields.io/github/stars/dannny0117/ObnoxiouslyCool-Bot?style=social)](https://github.com/dannny0117/ObnoxiouslyCool-Bot)  
 [![Twitch](https://img.shields.io/badge/Twitch-Dannny0117-9146FF?logo=twitch)](https://twitch.tv/dannny0117)  
